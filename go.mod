@@ -1,4 +1,4 @@
-module dockermgr
+module github.com/zxln007/dockermgr
 
 go 1.20
 
