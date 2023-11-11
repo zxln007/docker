@@ -1,1 +1,1 @@
-package manager
+package main
