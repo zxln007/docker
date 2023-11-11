@@ -1,4 +1,4 @@
-module docker-mgr
+module dockermgr
 
 go 1.20
 

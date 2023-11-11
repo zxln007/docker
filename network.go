@@ -1,4 +1,4 @@
-package manager
+package dockermgr
 
 import (
 	"github.com/docker/docker/api/types"

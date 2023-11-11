@@ -1,4 +1,4 @@
-package manager
+package dockermgr
 
 import (
 	"errors"
